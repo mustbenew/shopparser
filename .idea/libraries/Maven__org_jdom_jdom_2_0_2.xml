@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: org.jdom:jdom:2.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom/jdom/2.0.2/jdom-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/jdom/jdom2" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom/jdom/2.0.2/jdom-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jdom/jdom2" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom/jdom/2.0.2/jdom-2.0.2-sources.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom/jdom/2.0.2/jdom-2.0.2.jar!/" />
+    </excluded>
+  </library>
+</component>
