@@ -1,0 +1,4 @@
+1. Colors may not be displayed all, because on a page where more than 4 colors are shown, the remaining colors are hidden under the picture (like +2 or +3). - I did not have time to fix it.
+Color codes are displayed because on the product page all colors can be presented under the name of one color.
+2. At the time of completion, there were 453 pages. Number of requests = 453 * 2. I did not have much time to manage optimization.
+3. I have not previously been engaged in parsing html pages and working with streams, therefore it took a lot of time to understand how this can be done and to fix errors.
